@@ -14,3 +14,6 @@
 /releases/
 *.mpr.lock
 *.mpr.bak
+/slataskapp.mpr.bak
+/slataskapp.mpr.lock
+/nativemobile/builds/
